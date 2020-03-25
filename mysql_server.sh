@@ -56,6 +56,7 @@ config_static_ip () {
 
 install_wordpress () {
   apt -y install mysql-server
+  mysql_secure_installation
 }
 
 main() {
