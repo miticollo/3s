@@ -68,7 +68,7 @@ install_wordpress () {
     WOOCOMMERCE_PHP_EXTENSIONS='php-apcu php-bcmath php-gmp php-soap'
 
     # shellcheck disable=SC2086
-    apt -y install $BASIC_PKGS $WORDPRESS_PHP_EXTENSIONS $WOOCOMMERCE_PHP_EXTENSIONS 'phpmyadmin'
+    apt -y install $BASIC_PKGS $WORDPRESS_PHP_EXTENSIONS $WOOCOMMERCE_PHP_EXTENSIONS phpmyadmin
   }
 
   download () {
