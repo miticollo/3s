@@ -14,7 +14,7 @@ Install MySQL 8.0 on Ubuntu Server.
 
 Run on terminal
 ```bash
-bash <(wget -qO- https://tinyurl.com/sn3f2xn) # for wp.sh
+bash <(wget -qO- https://tinyurl.com/qqpk3us) # for wp.sh
 
-bash <(wget -qO- https://tinyurl.com/sn3f2xn) # for mysql_server.sh
+bash <(wget -qO- https://tinyurl.com/vpwq4lj) # for mysql_server.sh
 ```
