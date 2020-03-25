@@ -38,6 +38,7 @@ add_extra_repos () {
   add-apt-repository -y -n ppa:maxmind/ppa
   add-apt-repository -y -n ppa:jdstrand/ufw-daily
   add-apt-repository -y -n ppa:jonathonf/vim
+  add-apt-repository -y -n ppa:jonathonf/microcode
 }
 
 set_ssh_user () {
